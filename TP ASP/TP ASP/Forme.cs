@@ -2,16 +2,13 @@
 
 namespace TP_ASP
 {
-    internal class Forme
+    public abstract class Forme
     {
-        public void perimetre(double value)
+        public abstract double Aire { get; }
+        public abstract double Perimetre { get; }
+        public override string ToString()
         {
-            Console.WriteLine($"Périmètre = {value}");
-        }
-
-        public void aire(double value)
-        {
-            Console.WriteLine($"Aire = {value}");
+            return $"Aire = {Aire}\n\rPerimetre = {Perimetre}\n\r";
         }
 
     }

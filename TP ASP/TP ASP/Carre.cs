@@ -6,27 +6,22 @@ namespace TP_ASP
     {
         public int Longueur { get; set; }
 
-        private static double calculAire(int longueur)
+        public override double Aire => calculAire();
+        public override double Perimetre => calculPerimetre();
+
+        private double calculAire()
         {
-            return longueur * longueur;
+            return Longueur * Longueur;
         }
 
-        private static int calculPerimetre(int longueur)
+        private int calculPerimetre()
         {
-            return longueur * 4;
-        }
-
-        private void affichageCote()
-        {
-            Console.WriteLine($"Carré de côté {Longueur}");
+            return Longueur * 4;
         }
 
         public override string ToString()
         {
-            affichageCote();
-            aire(calculAire(Longueur));
-            perimetre(calculPerimetre(Longueur));
-            return "";
+            return $"Carré de côté {Longueur}\n\r" + base.ToString();
         }
     }
 }

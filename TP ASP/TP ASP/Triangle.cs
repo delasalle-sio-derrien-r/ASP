@@ -8,6 +8,9 @@ namespace TP_ASP
         public int B { get; set; }
         public int C { get; set; }
 
+        public override double Aire => calculAire();
+        public override double Perimetre => calculPerimetre();
+
         private double calculAire()
         {
             double demiPerimetre = (double)calculPerimetre() / 2;
@@ -19,17 +22,9 @@ namespace TP_ASP
             return A + B + C;
         }
 
-        private void affichageCote()
-        {
-            Console.WriteLine($"Triangle de côté A = {A}, B = {B}, C = {C}");
-        }
-
         public override string ToString()
         {
-            affichageCote();
-            aire(calculAire());
-            perimetre(calculPerimetre());
-            return "";
+            return $"Triangle de côté A = {A}, B = {B}, C = {C}\n\r" + base.ToString();
         }
     }
 }

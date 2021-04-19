@@ -6,27 +6,22 @@ namespace TP_ASP
     {
         public int Rayon { get; set; }
 
-        private static double calculAire(int rayon)
+        public override double Aire => calculAire();
+        public override double Perimetre => calculPerimetre();
+
+        private double calculAire()
         {
-            return Math.PI * Math.Pow(rayon, 2);
+            return Math.PI * Math.Pow(Rayon, 2);
         }
 
-        private static double calculPerimetre(int rayon)
+        private double calculPerimetre()
         {
-            return 2 * Math.PI * rayon;
-        }
-
-        private void affichageCote()
-        {
-            Console.WriteLine($"Cercle de rayon {Rayon}");
+            return 2 * Math.PI * Rayon;
         }
 
         public override string ToString()
         {
-            affichageCote();
-            aire(calculAire(Rayon));
-            perimetre(calculPerimetre(Rayon));
-            return "";
+            return $"Cercle de rayon {Rayon}\n\r" + base.ToString();
         }
     }
 }
