@@ -1,0 +1,6 @@
+G:\ENI\ASP\tp\TP ASP\TP ASP\bin\Debug\TP ASP.exe.config
+G:\ENI\ASP\tp\TP ASP\TP ASP\bin\Debug\TP ASP.exe
+G:\ENI\ASP\tp\TP ASP\TP ASP\bin\Debug\TP ASP.pdb
+G:\ENI\ASP\tp\TP ASP\TP ASP\obj\Debug\TP ASP.csprojAssemblyReference.cache
+G:\ENI\ASP\tp\TP ASP\TP ASP\obj\Debug\TP ASP.exe
+G:\ENI\ASP\tp\TP ASP\TP ASP\obj\Debug\TP ASP.pdb
