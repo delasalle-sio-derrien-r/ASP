@@ -1,0 +1,79 @@
+G:\ENI\ASP\tp\TP 3\TP 3\bin\TP 3.dll.config
+G:\ENI\ASP\tp\TP 3\TP 3\bin\TP 3.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\TP 3.pdb
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\csc.exe
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\csc.exe.config
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\csc.rsp
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\csi.exe
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\csi.exe.config
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\csi.rsp
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.AppContext.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Collections.Immutable.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Console.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.IO.Compression.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.IO.FileSystem.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.IO.Pipes.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Reflection.Metadata.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Security.AccessControl.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Security.Claims.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.ValueTuple.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Xml.XPath.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\vbc.exe
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\vbc.exe.config
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\vbc.rsp
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\VBCSCompiler.exe
+G:\ENI\ASP\tp\TP 3\TP 3\bin\roslyn\VBCSCompiler.exe.config
+G:\ENI\ASP\tp\TP 3\TP 3\bin\Antlr3.Runtime.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\EntityFramework.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\EntityFramework.SqlServer.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\Microsoft.Web.Infrastructure.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\Newtonsoft.Json.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Helpers.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Mvc.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Optimization.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Razor.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.WebPages.Deployment.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.WebPages.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.WebPages.Razor.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\WebGrease.dll
+G:\ENI\ASP\tp\TP 3\TP 3\bin\EntityFramework.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\EntityFramework.SqlServer.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Helpers.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Mvc.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Optimization.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.Razor.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.WebPages.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.WebPages.Deployment.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\System.Web.WebPages.Razor.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\Newtonsoft.Json.xml
+G:\ENI\ASP\tp\TP 3\TP 3\bin\Antlr3.Runtime.pdb
+G:\ENI\ASP\tp\TP 3\TP 3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ENI\ASP\tp\TP 3\TP 3\obj\Debug\TP 3.csprojAssemblyReference.cache
+G:\ENI\ASP\tp\TP 3\TP 3\obj\Debug\TP 3.csproj.CopyComplete
+G:\ENI\ASP\tp\TP 3\TP 3\obj\Debug\TP 3.dll
+G:\ENI\ASP\tp\TP 3\TP 3\obj\Debug\TP 3.pdb

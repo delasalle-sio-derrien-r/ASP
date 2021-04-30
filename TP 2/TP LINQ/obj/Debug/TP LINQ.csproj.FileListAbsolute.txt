@@ -1,0 +1,6 @@
+G:\ENI\ASP\tp\TP 2\TP LINQ\obj\Debug\TP LINQ.csprojAssemblyReference.cache
+G:\ENI\ASP\tp\TP 2\TP LINQ\bin\Debug\TP LINQ.exe.config
+G:\ENI\ASP\tp\TP 2\TP LINQ\bin\Debug\TP LINQ.exe
+G:\ENI\ASP\tp\TP 2\TP LINQ\bin\Debug\TP LINQ.pdb
+G:\ENI\ASP\tp\TP 2\TP LINQ\obj\Debug\TP LINQ.exe
+G:\ENI\ASP\tp\TP 2\TP LINQ\obj\Debug\TP LINQ.pdb
